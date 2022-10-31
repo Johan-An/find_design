@@ -14,4 +14,9 @@ class IndexController extends Controller
     	$list = DB::table('enterprises')->get();
     	dd($list);
     }
+
+    public function detail()
+    {
+        
+    }
 }
