@@ -19,4 +19,9 @@ class IndexController extends Controller
     {
         
     }
+
+    public function save()
+    {
+
+    }
 }
